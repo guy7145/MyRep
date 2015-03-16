@@ -13,6 +13,11 @@ namespace ConsoleApplication1
             Console.WriteLine("hello world");
             Console.WriteLine("Collision!");
             Console.Read();
+            while (true)
+            {
+                //do nothing
+                System.Threading.Thread.Sleep(1500);
+            }
         }
     }
 }
