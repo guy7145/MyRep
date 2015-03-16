@@ -15,7 +15,7 @@ namespace ConsoleApplication1
             Console.Read();
             while (true)
             {
-                //do nothing
+                //do nothing at all
                 System.Threading.Thread.Sleep(1500);
             }
         }
