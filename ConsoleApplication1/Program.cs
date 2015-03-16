@@ -17,7 +17,6 @@ namespace ConsoleApplication1
             {
                 //do nothing at all
                 System.Threading.Thread.Sleep(1500);
-                //sadfkjhgsdfgkhsdfgsdfgsdghfghsd
             }
         }
     }
